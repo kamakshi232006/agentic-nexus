@@ -1,0 +1,14 @@
+langchain
+langchain-groq
+langchain-openai
+scikit-learn
+ddgs
+gradio
+groq
+gtts
+requests
+pillow
+pandas
+openpyxl
+matplotlib
+numpy
