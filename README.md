@@ -34,6 +34,7 @@ Create a `.env` file or set the following variables in your hosting environment:
    cd agentic-nexus
 
 ##Quick Local Run Command: virtual environment setup and dependency installation steps :
+```bash
 python -m venv .venv
 source .venv/bin/activate  # Or .venv\Scripts\Activate on Windows
 pip install -r requirements.txt
